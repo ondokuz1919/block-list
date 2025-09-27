@@ -1,1 +1,2 @@
 connectivitycheck.platform.hicloud.com
+||iads.unity3d.com
