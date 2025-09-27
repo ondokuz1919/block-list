@@ -6,3 +6,4 @@ app.adjust.com
 ||zuimeitianqi.com^
 ||hicloud.com^
 ||dbankcloud.com^
+||samsung.com^
