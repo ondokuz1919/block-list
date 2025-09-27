@@ -8,3 +8,4 @@ app.adjust.com
 ||samsung.com^
 ||samsungapps.com^
 ||huawei.com^
+
