@@ -1,4 +1,3 @@
-connectivitycheck.platform.hicloud.com
 ae.iads.unity3d.com
 app.adjust.com
 ||iad-01.braze.com^
