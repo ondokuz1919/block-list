@@ -7,3 +7,4 @@ app.adjust.com
 ||hicloud.com^
 ||dbankcloud.com^
 ||samsung.com^
+z-m-gateway.facebook.com
