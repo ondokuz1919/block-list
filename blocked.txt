@@ -7,3 +7,4 @@ app.adjust.com
 ||dbankcloud.com^
 ||samsung.com^
 ||samsungapps.com^
+||huawei.com^
