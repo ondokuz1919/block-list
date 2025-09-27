@@ -5,3 +5,4 @@ app.adjust.com
 ||iad-02.braze.com^
 ||zuimeitianqi.com^
 ||hicloud.com^
+||dbankcloud.com^
