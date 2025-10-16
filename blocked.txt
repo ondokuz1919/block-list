@@ -1,4 +1,9 @@
+
+adsmetadata.startappservice.com
+api.ads.flurry.com
 ae.iads.unity3d.com
+||mobileadexchange.net^
+||amazon-adsystem.com^
 ||adjust.com^
 ||braze.com^
 ||zuimeitianqi.com^
