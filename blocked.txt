@@ -1,7 +1,6 @@
 ae.iads.unity3d.com
 ||adjust.com^
-||iad-01.braze.com^
-||iad-02.braze.com^
+||braze.com^
 ||zuimeitianqi.com^
 ||hicloud.com^
 ||dbankcloud.com^
