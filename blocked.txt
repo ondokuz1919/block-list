@@ -1,6 +1,7 @@
 adsmetadata.startappservice.com
 api.ads.flurry.com
 ae.iads.unity3d.com
+||samsungapps.com^
 ||mobileadexchange.net^
 ||amazon-adsystem.com^
 ||adjust.com^
