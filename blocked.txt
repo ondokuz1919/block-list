@@ -1,6 +1,7 @@
-adsmetadata.startappservice.com
 api.ads.flurry.com
 ae.iads.unity3d.com
+||startappservice.com^
+||mobileadexchange.net^
 ||criteo.com^
 ||appsflyersdk.com^
 ||samsungapps.com^
