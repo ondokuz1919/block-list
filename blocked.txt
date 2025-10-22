@@ -1,5 +1,6 @@
-api.ads.flurry.com
-ae.iads.unity3d.com
+||googleads.g.doubleclick.net^
+||api.ads.flurry.com^
+||ae.iads.unity3d.com^
 ||startappservice.com^
 ||mobileadexchange.net^
 ||criteo.com^
