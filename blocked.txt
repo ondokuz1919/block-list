@@ -16,4 +16,5 @@
 ||samsung.com^
 ||samsungapps.com^
 ||huawei.com^
+||config.edge.skype.com^
 
