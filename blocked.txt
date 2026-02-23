@@ -20,5 +20,6 @@
 ||huawei.com^
 ||config.edge.skype.com^
 ||ccpce-de.consumer.huawei.com^
-||tiktokcdn-us.com^
-||www.tiktok.com^
+tiktokcdn-us.com
+tiktok.com
+tiktokv.com
