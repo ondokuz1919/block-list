@@ -19,4 +19,4 @@
 ||samsungapps.com^
 ||huawei.com^
 ||config.edge.skype.com^
-
+||ccpce-de.consumer.huawei.com^
