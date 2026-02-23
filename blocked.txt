@@ -25,3 +25,4 @@
 0.0.0.0 tiktokcdn.com
 0.0.0.0 platform.hicloud.com
 0.0.0.0 sentinelpro.com
+0.0.0.0 samsungcloud.com
