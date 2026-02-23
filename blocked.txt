@@ -1,4 +1,6 @@
 ||googleads.g.doubleclick.net^
+||clienttracing-pa.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
 ||api.ads.flurry.com^
 ||ae.iads.unity3d.com^
 ||startappservice.com^
