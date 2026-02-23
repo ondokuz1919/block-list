@@ -22,3 +22,4 @@
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokv.com
+0.0.0.0 platform.hicloud.com
