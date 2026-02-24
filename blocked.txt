@@ -15,7 +15,6 @@
 ||dbankcloud.com^
 ||samsung.com^
 ||samsungapps.com^
-||huawei.com^
 ||config.edge.skype.com^
 ||ccpce-de.consumer.huawei.com^
 
@@ -26,3 +25,4 @@
 0.0.0.0 platform.hicloud.com
 0.0.0.0 sentinelpro.com
 0.0.0.0 samsungcloud.com
+0.0.0.0 huawei.com
