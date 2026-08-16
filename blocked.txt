@@ -17,6 +17,7 @@
 ||samsungapps.com^
 ||config.edge.skype.com^
 ||ccpce-de.consumer.huawei.com^
+||rep.maxesads.com^
 
 0.0.0.0 tiktokcdn-us.com
 0.0.0.0 tiktok.com
