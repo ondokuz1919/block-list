@@ -7,7 +7,7 @@
 *tiktokv*
 *tiktokcdn*
 *sentinelpro*
-*Samsung*
+*samsung*
 *samsungcloud*
 *huawei*
 *adsmoloco*
