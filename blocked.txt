@@ -1,27 +1,10 @@
-||googleads.g.doubleclick.net^
-||clienttracing-pa.googleapis.com^
-||xgapromomanager-pa.googleapis.com^
-||api.ads.flurry.com^
-||ae.iads.unity3d.com^
-||startappservice.com^
-||criteo.com^
-||appsflyersdk.com^
-||mobileadexchange.net^
-||amazon-adsystem.com^
-||adjust.com^
-||braze.com^
-||zuimeitianqi.com^
-||hicloud.com^
-||dbankcloud.com^
-||samsung.com^
-||samsungapps.com^
-||config.edge.skype.com^
-||ccpce-de.consumer.huawei.com^
-||rep.maxesads.com^
-||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 
-0.0.0.0 tiktokcdn-us.com
-0.0.0.0 tiktok.com
+*amazon-adsystem*
+*braze*
+*hicloud*
+*maxesads*
+*tiktokcdn-us*
+*tiktok*
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 platform.hicloud.com
